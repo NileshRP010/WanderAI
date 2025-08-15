@@ -81,12 +81,6 @@ Itinerary Display – React UI displays morning, afternoon, and evening plans wi
 
 Save & Access Later – Firebase stores itineraries for logged-in users.
 
-📸 Screenshots
-
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-
 
 🛡 License
 This project is licensed under the MIT License.
