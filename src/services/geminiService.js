@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
-const API_KEY = 'AIzaSyCrlAwJ6clMkscW20L4oUquZGyDrIPpVvg';
+const API_KEY = 'AIzaSyCVVM9r7o9xNH0LvKQYBr7PD8ZU1hyQI44';
 const genAI = new GoogleGenerativeAI(API_KEY);
 
 export const generateItinerary = async (formData) => {
