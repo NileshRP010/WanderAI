@@ -36,48 +36,7 @@ bash
 
 npm install
 Set Up Environment Variables
-Create a .env file in the root folder:
 
-env
-
-VITE_FIREBASE_API_KEY=your_firebase_api_key
-VITE_FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
-VITE_FIREBASE_PROJECT_ID=your_firebase_project_id
-VITE_GEMINI_API_KEY=your_gemini_api_key
-Run the App
-
-bash
-
-npm run dev
-🧩 Folder Structure
-
-src/
-├── components/
-│   ├── Header.jsx
-│   ├── Hero.jsx
-│   ├── PlannerForm.jsx
-│   ├── LoadingSpinner.jsx
-│   ├── ItineraryDisplay.jsx
-│   ├── AuthModal.jsx
-│   └── Dashboard.jsx
-├── context/
-│   └── AuthContext.jsx
-├── services/
-│   └── geminiService.js
-├── firebase.js
-├── App.jsx
-└── main.jsx
-
-
-
-💡 How It Works
-User Inputs – Budget, trip duration, destination type, season, and preferences.
-
-AI Generation – Data is sent to Google Gemini AI with a detailed prompt.
-
-Itinerary Display – React UI displays morning, afternoon, and evening plans with animations.
-
-Save & Access Later – Firebase stores itineraries for logged-in users.
 
 
 🛡 License
