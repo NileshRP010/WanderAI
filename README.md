@@ -30,12 +30,6 @@ WanderAI is a modern AI-powered travel planning application that creates **perso
    ```bash
    git clone https://github.com/yourusername/wanderai.git
    cd wanderai
-Install Dependencies
-
-bash
-
-npm install
-Set Up Environment Variables
 
 
 
