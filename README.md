@@ -8,7 +8,6 @@ WanderAI is a modern AI-powered travel planning application that creates **perso
 
 - 🧠 **AI-Powered Itineraries** – Generates realistic, detailed plans with morning, afternoon, and evening activities.
 - 💸 **Budget-Aware Recommendations** – Suggests restaurants, accommodations, and experiences within your budget.
-- 📍 **Google Maps Place IDs** – Easy mapping of must-visit spots.
 - 🎨 **Beautiful UI with Animations** – Smooth page transitions, fade-ins, hover effects, and shimmer-loading states.
 - 🔐 **Firebase Authentication** – Sign up, log in, and save itineraries securely.
 - 📱 **Responsive Design** – Works perfectly on desktop, tablet, and mobile.
@@ -20,7 +19,7 @@ WanderAI is a modern AI-powered travel planning application that creates **perso
 - **Frontend:** React.js (JavaScript), Tailwind CSS, Framer Motion
 - **Backend/AI:** Google Gemini API
 - **Database & Auth:** Firebase
-- **Deployment:** Vercel / Netlify
+- **Deployment:** Vercel 
 
 ---
 
